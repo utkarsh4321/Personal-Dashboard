@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d dist"
   },
   "author": "Brad Traversy",
-  "homepage": "https://utkarsh4321.github.io/Personal_Dashboard",
+  "homepage": "https://utkarsh4321.github.io/personal-dashboard",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
